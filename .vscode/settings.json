@@ -1,0 +1,22 @@
+{
+  "prettier.bracketSpacing": true,
+  "prettier.enable": true,
+  "prettier.semi": true,
+  "prettier.useEditorConfig": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enableDebugLogs": true,
+  "prettier.requireConfig": true,
+  "prettier.requirePragma": true,
+  "prettier.resolveGlobalModules": true,
+  "prettier.quoteProps": "preserve",
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.formatOnSave": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.autoSave": "onFocusChange",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
